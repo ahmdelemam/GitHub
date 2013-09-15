@@ -8,7 +8,7 @@
 defined('DS') ? null : define('DS', DIRECTORY_SEPARATOR);
 
 defined('SITE_ROOT') ? null : 
-	define('SITE_ROOT', DS.'Users'.DS.'kevin'.DS.'Sites'.DS.'photo_gallery');
+	define('SITE_ROOT', DS.'Users'.DS.'ahmdelemam'.DS.'Sites'.DS.'photo_gallery');
 
 defined('LIB_PATH') ? null : define('LIB_PATH', SITE_ROOT.DS.'includes');
 
